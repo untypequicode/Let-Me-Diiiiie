@@ -6,7 +6,7 @@ In LetMeDiiiiie, you are between the death and the live, but you don't want to r
 
 [@untypequicode](https://github.com/untypequicode) : programing, UI, animations, music
 
-[@bug](#) : 3d modeling, level design, music
+[@bug](https://www.linkedin.com/in/elio-puyou/) : 3d modeling, level design, music
 
 ## Music
 
