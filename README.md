@@ -1,2 +1,29 @@
-# Let-Me-Diiiiie
-Dans LetMeDiiiiie, tu te trouves entre la mort et la vie, mais tu ne veux pas renaître. La seule façon de mourir est d'être tué par Cerber, le monstre à trois têtes de singe. Si tu n'y parviens pas, tu reviens à la vie et tu perds.
+# Jumping Hell
+
+In LetMeDiiiiie, you are between the death and the live, but you don't want to rebirthing. The only way to be dead is to be killed by Cerber, the tree monkeys heads monster. If you don't succeed, you are coming back to live, and you lose.
+
+## Contributors
+
+[@untypequicode](https://github.com/untypequicode) : programing, UI, animations, music
+
+[@bug](#) : 3d modeling, level design, music
+
+## Music
+
+O Fortunae - Carmina Bunara, played on cello by us
+
+## Pictures
+
+<p align="center">
+  <img src="doc/pict_start.png" width="49%" />
+  <img src="doc/pict_learn.png" width="49%" /> 
+</p>
+<p align="center">
+  <img src="doc/pict_play_1.png" width="32%" />
+  <img src="doc/pict_play_2.png" width="32%" /> 
+  <img src="doc/pict_play_3.png" width="32%" />
+</p>
+<p align="center">
+  <img src="doc/pict_level.png" width="49%" />
+  <img src="doc/pict_game_over.png" width="49%" /> 
+</p>
