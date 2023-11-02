@@ -1,4 +1,4 @@
-# Jumping Hell
+# Let Me Diiiiie
 
 In LetMeDiiiiie, you are between the death and the live, but you don't want to rebirthing. The only way to be dead is to be killed by Cerber, the tree monkeys heads monster. If you don't succeed, you are coming back to live, and you lose.
 
