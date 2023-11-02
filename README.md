@@ -15,8 +15,8 @@ O Fortunae - Carmina Bunara, played on cello by us
 ## Pictures
 
 <p align="center">
-  <img src="doc/pict_start.png" width="49%" />
-  <img src="doc/pict_learn.png" width="49%" /> 
+  <img src="doc/pict_start.png" width="48.1%" />
+  <img src="doc/pict_learn.png" width="48.1%" /> 
 </p>
 <p align="center">
   <img src="doc/pict_play_1.png" width="32%" />
@@ -24,6 +24,6 @@ O Fortunae - Carmina Bunara, played on cello by us
   <img src="doc/pict_play_3.png" width="32%" />
 </p>
 <p align="center">
-  <img src="doc/pict_level.png" width="49%" />
-  <img src="doc/pict_game_over.png" width="49%" /> 
+  <img src="doc/pict_level.png" width="48.1%" />
+  <img src="doc/pict_game_over.png" width="48.1%" /> 
 </p>
