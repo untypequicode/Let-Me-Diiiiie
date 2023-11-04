@@ -1,6 +1,6 @@
 # Let Me Diiiiie
 
-In LetMeDiiiiie, you are between the death and the live, but you don't want to rebirthing. The only way to be dead is to be killed by Cerber, the tree monkeys heads monster. If you don't succeed, you are coming back to live, and you lose.
+One single goal, to die. In LetMeDiiiiie, between life and death, the only way to win is to be killed by Cerber, the three-headed monkey monster. There won't be any respite, Cerber is very clever, so it's up to you to play!
 
 ## Contributors
 
